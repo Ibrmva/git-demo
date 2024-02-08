@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 I found a love for me
 Darling, just dive right in and follow my lead
 Well, I found a girl, beautiful and sweet
@@ -22,7 +21,6 @@ Darling, you look perfect tonight
 
 Well, I found a woman, stronger than anyone I know
 She shares my dreams, I hope that someday I'll share her home
-=======
 I found a love to carry more than just my secrets
 To carry love, to carry children of our own
 
@@ -54,4 +52,3 @@ And she looks perfect
 I don't deserve this
 You look perfect tonight
 
->>>>>>> refs/remotes/origin/main
